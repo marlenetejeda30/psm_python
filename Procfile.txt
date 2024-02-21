@@ -1,4 +1,4 @@
-web: sh setup.sh && streamlit run travis_casestudy.py\
+web: sh setup.sh && streamlit run psm_function_presentation.py\
    -theme.primaryColor="#036635"\
    -theme.backgroundColor="#ffffff"\
    -theme.secondaryBackgroundColor="#9a7a59"\
